@@ -1,8 +1,10 @@
 # IDEA-SAFE--HEALTH
 Health and safety body cam+wrist~band
 
+#May be good and bad (Known!)#
+---------------------------------------
 #This may not be new idea as maybe other people tought about that but im not asking for any credit if its Justifie the case#
-
+---------------------------------------
 
 # Health and Safety Wristband and Body Camera System
 
